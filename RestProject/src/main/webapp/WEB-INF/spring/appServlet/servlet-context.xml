@@ -21,8 +21,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.koreait.restproject" />
-	
-	
+	<context:component-scan base-package="com.koreait.restproject.client.controller" />
+	<beans:bean id="globalExceptionHandler" class="com.koreait.restproject.client.aop.GlobalExceptionHandler"></beans:bean>
 	
 </beans:beans>

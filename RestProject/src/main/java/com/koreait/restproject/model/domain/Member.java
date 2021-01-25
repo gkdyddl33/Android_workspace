@@ -7,8 +7,5 @@ public class Member {
 	private int member_id;
 	private String m_id;
 	private String m_pass;
-	private String m_name;
-	public int getMember_id() {
-		return member_id;
-	}
+	private String m_name;	
 }
