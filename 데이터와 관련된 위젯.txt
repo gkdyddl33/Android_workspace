@@ -1,0 +1,11 @@
+
+[데이터와 관련된 위젯]
+	데이터를 보여주기에 최적화된 위젯!
+
+	ListView
+	
+	GridView
+	
+	Spinner
+	
+	Gallery(deprecated..)

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="기준위젯"
+        android:id="@+id/bt_base"
+        android:layout_centerInParent="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+
+    <!--기준을 id로 정해서 그 기준으로 정렬을 한다-->
+    <Button
+        android:text="1번"
+        android:layout_above="@id/bt_base"
+        android:layout_alignLeft="@id/bt_base"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="2번"
+        android:layout_above="@id/bt_base"
+        android:layout_alignLeft="@id/bt_base"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="3번"
+        android:layout_above="@id/bt_base"
+        android:layout_alignBottom="@id/bt_base"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="4번"
+        android:layout_above="@id/bt_base"
+        android:layout_alignBottom="@id/bt_base"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
