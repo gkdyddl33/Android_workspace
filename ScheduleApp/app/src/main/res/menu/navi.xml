@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--  showAsAction = 바로라기 추가/아니면 숨어만 잇음  -->
+    <item
+        android:id="@+id/ani"
+        android:title="애니메이션"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/schedule"
+        android:title="스케쥴"
+        app:showAsAction="ifRoom"/>
+
+</menu>
