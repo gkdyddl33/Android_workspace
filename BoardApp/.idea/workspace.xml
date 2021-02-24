@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c490e95-f994-47de-b23b-b96fb09f6167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/login/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/login/LoginFragement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/register/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/register/RegistActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/register/WebViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/layout/activity_regist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/layout/activity_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../korea_android/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/BoardAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/BoardAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/HttpThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/HttpManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/app/src/main/java/com/koreait/boardapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/res/drawable-v24/question.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BoardApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/LoginFragement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/java/com/koreait/gumzimaregist/MyViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/layout/fragment_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/menu/navi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GumzimaRegist/app/src/main/res/menu/navi.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BoardApp" />
+  </component>
+  <component name="ProjectId" id="1oVM5APMFYDZyHHzXNy53zG9osQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c490e95-f994-47de-b23b-b96fb09f6167" name="Default Changelist" comment="" />
+      <created>1613367118406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613367118406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2347" y="278" key="FileChooserDialogImpl" timestamp="1613369818396">
+      <screen x="1920" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2347" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1040@1920.0.2560.1040" timestamp="1613369818396" />
+  </component>
+</project>
