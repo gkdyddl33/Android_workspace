@@ -1,4 +1,4 @@
-package com.koreait.gumzimaregist;
+package com.koreait.gumzimaregist.register;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -43,6 +43,6 @@ public class WebViewActivity extends AppCompatActivity {
             }
         });
 
-        webView.loadUrl("http://서버주소/daum.html");       // 서버주소 넣어보기..
+        webView.loadUrl("http://192.168.219.101:8888/resources/daum.html"); // 체크해보기!
     }
 }
